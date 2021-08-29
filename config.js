@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Để xiem như lào đã ',
     question:'Vì seo mày nại thít teo',
     btnReply: 'Gửi nại cho teo',
-    reply: 'Thít thì teo bao mày tà tữa ',
+    reply: 'Vì teo thỉu năng đúm khum :>>> ',
     mess: 'Tao bíc mày thít teo mờ',
     messDesc: 'Đi học gòi tao bao nháaa.',
     btnAccept: 'Okiiiii lun :>>>>',
